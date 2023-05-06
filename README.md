@@ -1,5 +1,6 @@
 # CI и CD проекта api_yamdb
-![workflow](https://github.com/lazarenkov-e/yamdb_final/actions/workflows/yamdb_workflof.yml/badge.svg?)
+
+![example event parameter](https://github.com/lazarenkov-e/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
 
 Проект YaMDb собирает отзывы пользователей на произведения. Сами произведения в YaMDb не хранятся, здесь нельзя посмотреть фильм или послушать музыку.
 Произведения делятся на категории, такие как «Книги», «Фильмы», «Музыка». Список категорий может быть расширен.
