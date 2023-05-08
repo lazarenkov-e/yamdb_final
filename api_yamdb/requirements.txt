@@ -12,6 +12,9 @@ djangorestframework==3.12.4
 djangorestframework-simplejwt==5.2.2
 flake8==5.0.4
 flake8-absolute-import==1.0.0.1
+flake8-broken-line
+flake8-return
+flake8-isort
 flake8-commas==2.1.0
 flake8-quotes==3.3.2
 gunicorn==20.0.4
@@ -24,6 +27,7 @@ mccabe==0.7.0
 mypy-extensions==0.4.3
 packaging==23.0
 pathspec==0.11.0
+pep8-naming
 platformdirs==2.6.2
 pluggy==0.13.1
 py==1.11.0
